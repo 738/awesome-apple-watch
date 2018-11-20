@@ -1,4 +1,4 @@
-# Awesome Apple Watch
+# Awesome Apple Watch ⌚
 
 ## About
 
@@ -15,3 +15,6 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ## Content
 
+## Other Awesome Lists
+
+### Contributing

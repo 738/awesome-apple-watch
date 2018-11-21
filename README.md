@@ -22,7 +22,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
     * [Connectivity](#connectivity)
 * [Tutorials](#tutorials)
 * [Books](#books)
-* [Sample Apps](#sampleapps)
+* [Sample Apps](#sample-apps)
 
 ## Getting Started
 

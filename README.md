@@ -17,12 +17,12 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 * [Getting Started](#getting-started)
 * [Design Guide](#design-guide)
-* Library
-    * UI
-    * Connectivity
-* Tutorials
-* Books
-* Sample Apps
+* [Library](#library)
+    * [UI](#ui)
+    * [Connectivity](#connectivity)
+* [Tutorials](#tutorials)
+* [Books](#books)
+* [Sample Apps](#sampleapps)
 
 ## Getting Started
 

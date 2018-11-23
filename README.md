@@ -26,7 +26,11 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ## Getting Started
 
+* [Apple Developer WatchKit Documentation](https://developer.apple.com/documentation/watchkit)
+
 ## Design Guide
+
+* [watchOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/watchos/overview/themes/)
 
 ## Library
 

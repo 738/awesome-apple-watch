@@ -38,6 +38,16 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ### Connectivity
 
+### Plugin
+
+#### react-native
+
+* [React Native Watch Connectivity](https://github.com/mtford90/react-native-watch-connectivity)
+
+#### Cordova
+
+* [AppleWatch Cordova plugin](https://github.com/Telerik-Verified-Plugins/AppleWatch)
+
 ## Tutorials
 
 ## Books

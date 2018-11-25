@@ -50,6 +50,19 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ## Tutorials
 
+### Youtube
+
+* [WatchKit Tutorial](https://www.youtube.com/watch?v=MAMAqvjPWxo&list=PLveAIogCrRlX2KIm8rfytPArufhV9knnV)
+* [WatchKit Swift Tutorial: Create a real world Apple Watch App](https://www.youtube.com/watch?v=sZAT8wNJnF0)
+* [Make Your First Apple Watch App in 11 minutes - Tutorial [WatchKit SDK]](https://www.youtube.com/watch?v=MeGArZtbGZ8)
+* [Learn How to Make a Simple Apple Watch App](https://www.youtube.com/watch?v=_l393Xm-qsU)
+
+### Blog
+
+* [Send data to parent iOS app](https://kristina.io/send-data-to-parent-ios-app/)
+* [Building a Simple Guess Game](https://www.appcoda.com/watchkit-introduction-tutorial/)
+* [How To Build Apple Watch App To Obtain Current Location](https://www.spaceotechnologies.com/build-apple-watch-app-watchkit-tutorial/)
+
 ## Books
 
 ## Sample Apps

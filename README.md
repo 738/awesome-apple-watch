@@ -38,7 +38,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ### Connectivity
 
-* [MMWormhole](https://github.com/mutualmobile/MMWormhole)
+| [MMWormhole](https://github.com/mutualmobile/MMWormhole) | ![MMWormhole](https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif) |
+|----------------------------------------------------------|--------------------------------------------------------------------------------------|
 
 ### Plugin
 

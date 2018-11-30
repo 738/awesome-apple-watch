@@ -36,6 +36,11 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ### UI
 
+|                              Name                             | License |                                                     Demo                                                    |
+|:-------------------------------------------------------------:|:-------:|:-----------------------------------------------------------------------------------------------------------:|
+| [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) | MIT     | ![YOChartImageKit](https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png) |
+| [Flipbook](https://github.com/frosty/Flipbook)                |         | No Demo Image                                                                                               |
+
 ### Connectivity
 
 |                           Name                           | License |                                         Demo                                         |

@@ -36,16 +36,18 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ### UI
 
-|                              Name                             | License |                                                     Demo                                                    |
-|:-------------------------------------------------------------:|:-------:|:-----------------------------------------------------------------------------------------------------------:|
-| [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) | MIT     | ![YOChartImageKit](https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png) |
-| [Flipbook](https://github.com/frosty/Flipbook)                |         | No Demo Image                                                                                               |
+| Name | License | Demo |
+|:----:|:-------:|:----:|
+| [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) | MIT | ![YOChartImageKit](https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png) |
+| [WatchRingGenerator](https://github.com/radianttap/WatchRingGenerator) | MIT | ![WatchRingGenerator](https://github.com/radianttap/WatchRingGenerator/blob/master/screen.png) |
+| [Flipbook](https://github.com/frosty/Flipbook) | | No Demo Image |
+| [JBInterfaceController](https://github.com/mikeswanson/JBInterfaceController) | MIT | No Demo Image |
 
 ### Connectivity
 
-|                           Name                           | License |                                         Demo                                         |
-|:--------------------------------------------------------:|:-------:|:------------------------------------------------------------------------------------:|
-| [MMWormhole](https://github.com/mutualmobile/MMWormhole) | MIT     | ![MMWormhole](https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif) |
+| Name | License | Demo |
+|:----:|:-------:|:----:|
+| [MMWormhole](https://github.com/mutualmobile/MMWormhole) | MIT | ![MMWormhole](https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif) |
 
 ### Plugin
 

@@ -76,6 +76,12 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ## Books
 
+* [Beginning WatchKit Development](https://www.amazon.com/Beginning-WatchKit-Development-Cory-Bohon/dp/1542751438?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1542751438)
+* [Developing for Apple Watch: Create Native watchOS Apps with the WatchKit SDK](https://www.amazon.com/Developing-Apple-Watch-watchOS-WatchKit/dp/168050133X?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=168050133X)
+* [WatchKit App Development Essentials: Learn to Develop Apps for the Apple Watch](https://www.amazon.com/WatchKit-App-Development-Essentials-Develop/dp/1512302570?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1512302570)
+* [Learning WatchKit Programming: A Hands-On Guide to Creating Apple Watch Applications](https://www.amazon.com/Learning-WatchKit-Programming-Hands-Applications/dp/0134195442?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0134195442)
+* [Learning WatchKit Programming: A Hands-On Guide to Creating watchOS 2 Applications](https://www.amazon.com/Learning-WatchKit-Programming-Hands-Applications-ebook/dp/B018F3JUFE?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B018F3JUFE)
+
 ## Sample Apps
 
 

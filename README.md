@@ -84,7 +84,11 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 ## Sample Apps
 
+* [Awesome WatchKit sample apps & tutorials](https://github.com/sanketfirodiya/sample-watchkit-apps)
 
 # Other Awesome Lists
+
+* [Awesome iOS](https://github.com/vsouza/awesome-ios)
+* [Awesome watchOS](https://github.com/yenchenlin/awesome-watchos)
 
 ### Contributing

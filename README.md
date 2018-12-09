@@ -54,6 +54,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 #### react-native
 
 * [React Native Watch Connectivity](https://github.com/mtford90/react-native-watch-connectivity)
+* [react-native-watch](https://github.com/conorbuck/react-native-watch)
 
 #### Cordova
 
@@ -89,6 +90,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Awesome WatchKit sample apps & tutorials](https://github.com/sanketfirodiya/sample-watchkit-apps)
 * [a SinaWeibo demo for WatchKit](https://github.com/kof97500/SinaWeibo-WatchKit)
 * [Highstreet WatchKit App](https://github.com/GetHighstreet/HighstreetWatchApp)
+* [WatchKit Open Application Demo](https://github.com/NatashaTheRobot/WatchKitOpenApplicationDemo)
 
 # Other Awesome Lists
 

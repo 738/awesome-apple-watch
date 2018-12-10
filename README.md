@@ -91,6 +91,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [a SinaWeibo demo for WatchKit](https://github.com/kof97500/SinaWeibo-WatchKit)
 * [Highstreet WatchKit App](https://github.com/GetHighstreet/HighstreetWatchApp)
 * [WatchKit Open Application Demo](https://github.com/NatashaTheRobot/WatchKitOpenApplicationDemo)
+* [Brew](https://github.com/contentful-graveyard/ContentfulWatchKitExample)
+* [watchkit-connectivity-demo](https://github.com/swilliams/watchkit-connectivity-demo)
 
 # Other Awesome Lists
 

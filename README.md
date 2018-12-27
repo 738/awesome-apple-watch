@@ -74,6 +74,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Send data to parent iOS app](https://kristina.io/send-data-to-parent-ios-app/)
 * [Building a Simple Guess Game](https://www.appcoda.com/watchkit-introduction-tutorial/)
 * [How To Build Apple Watch App To Obtain Current Location](https://www.spaceotechnologies.com/build-apple-watch-app-watchkit-tutorial/)
+* [Apple Watch Tutorial Series](https://github.com/randomite/AppleWatchTutorialSeries) - A Repo for all of the code in my youtube tutorials
 
 ## Books
 
@@ -95,6 +96,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [watchkit-connectivity-demo](https://github.com/swilliams/watchkit-connectivity-demo)
 * [Watchkit Table Demo](https://github.com/NatashaTheRobot/WatchKitTableDemo)
 * [WatchKit-Demo-Timer-App-for-Apple-Watch](https://github.com/PaulSolt/WatchKit-Demo-Timer-App-for-Apple-Watch)
+* [rnd-apple-watch-tesla](https://github.com/eleks/rnd-apple-watch-tesla) - An application for Apple Watch to control your Tesla Car
 
 # Other Awesome Lists
 

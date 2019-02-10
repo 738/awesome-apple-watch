@@ -42,6 +42,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 | [WatchRingGenerator](https://github.com/radianttap/WatchRingGenerator) | MIT | ![WatchRingGenerator](https://github.com/radianttap/WatchRingGenerator/blob/master/screen.png) |
 | [Flipbook](https://github.com/frosty/Flipbook) | | No Demo Image |
 | [JBInterfaceController](https://github.com/mikeswanson/JBInterfaceController) | MIT | No Demo Image |
+| [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) | MIT | No Demo Image |
 
 ### Connectivity
 

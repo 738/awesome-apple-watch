@@ -100,6 +100,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [rnd-apple-watch-tesla](https://github.com/eleks/rnd-apple-watch-tesla) - An application for Apple Watch to control your Tesla Car
 * [CustomWatchFaceTest](https://github.com/hamzasood/CustomWatchFaceTest)
 * [Interactive Notifications for iOS and Apple Watch](https://github.com/appcelerator-developer-relations/appc-sample-notifywatch)
+* [Watch-Simulator Weather](https://github.com/tylersimko/WatchSimulatorWeather)
 
 # Other Awesome Lists
 

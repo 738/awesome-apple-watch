@@ -101,6 +101,9 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [CustomWatchFaceTest](https://github.com/hamzasood/CustomWatchFaceTest)
 * [Interactive Notifications for iOS and Apple Watch](https://github.com/appcelerator-developer-relations/appc-sample-notifywatch)
 * [Watch-Simulator Weather](https://github.com/tylersimko/WatchSimulatorWeather)
+* [Apple Watch Faces](https://github.com/orff/AppleWatchFaces)
+* [The Missing Apple Watch Loader](https://github.com/ezefranca/the-missing-apple-watch-loader)
+* [Watch App Sampler](https://github.com/wangyanchang21/Watch-App-Sampler)
 
 # Other Awesome Lists
 

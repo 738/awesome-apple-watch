@@ -50,6 +50,12 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 |:----:|:-------:|:----:|
 | [MMWormhole](https://github.com/mutualmobile/MMWormhole) | MIT | ![MMWormhole](https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif) |
 
+### Motion
+
+| Name | License | Demo |
+|:----:|:-------:|:----:|
+| [WatchShaker](https://github.com/ezefranca/WatchShaker) | MIT | ![WatchShaker](https://raw.githubusercontent.com/ezefranca/WatchShaker/master/giphy%20(1).gif) |
+
 ### Plugin
 
 #### react-native
@@ -104,6 +110,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Apple Watch Faces](https://github.com/orff/AppleWatchFaces)
 * [The Missing Apple Watch Loader](https://github.com/ezefranca/the-missing-apple-watch-loader)
 * [Watch App Sampler](https://github.com/wangyanchang21/Watch-App-Sampler)
+* [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
 
 # Other Awesome Lists
 

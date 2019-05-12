@@ -56,6 +56,12 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 |:----:|:-------:|:----:|
 | [WatchShaker](https://github.com/ezefranca/WatchShaker) | MIT | ![WatchShaker](https://raw.githubusercontent.com/ezefranca/WatchShaker/master/giphy%20(1).gif) |
 
+### Utility
+
+| Name | License | Demo |
+|:----:|:-------:|:----:|
+| [FlickTypeKit](https://github.com/FlickType/FlickTypeKit) | [SEE LICENSE](https://github.com/FlickType/FlickTypeKit/blob/master/LICENSE.md) | ![FlickTypeKit](https://github.com/FlickType/FlickTypeKit/raw/master/screenshot-header.png) |
+
 ### Plugin
 
 #### react-native

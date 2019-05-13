@@ -117,6 +117,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [The Missing Apple Watch Loader](https://github.com/ezefranca/the-missing-apple-watch-loader)
 * [Watch App Sampler](https://github.com/wangyanchang21/Watch-App-Sampler)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
+* [Simple Apple Watch Apps](https://github.com/JoeyTawadrous/Simple-Apple-Watch-Apps)
 
 # Other Awesome Lists
 

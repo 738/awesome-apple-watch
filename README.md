@@ -73,6 +73,10 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 * [AppleWatch Cordova plugin](https://github.com/Telerik-Verified-Plugins/AppleWatch)
 
+#### Xamarin
+
+* [Xamarin.iOS & Xamarin.Mac](https://github.com/xamarin/xamarin-macios)
+
 ## Tutorials
 
 ### Youtube

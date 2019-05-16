@@ -67,7 +67,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 #### react-native
 
 * [React Native Watch Connectivity](https://github.com/mtford90/react-native-watch-connectivity)
-* [react-native-watch](https://github.com/conorbuck/react-native-watch)
+* [@conorbuck/react-native-watch](https://github.com/conorbuck/react-native-watch) - React Native bindings for WatchKit
+* [@AlexisLeon/react-native-watch](https://github.com/AlexisLeon/react-native-watch) - React Native bindings for WatchKit
 
 #### Cordova
 
@@ -76,6 +77,10 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 #### Xamarin
 
 * [Xamarin.iOS & Xamarin.Mac](https://github.com/xamarin/xamarin-macios)
+
+#### Flutter
+
+* [Flutter Watchtips](https://github.com/magnatronus/flutter-watchtips)
 
 ## Tutorials
 

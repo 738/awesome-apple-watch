@@ -80,7 +80,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 #### Flutter
 
-* [Flutter Watchtips](https://github.com/magnatronus/flutter-watchtips)
+* [Flutter Watchtips](https://github.com/magnatronus/flutter-watchtips) - Flutter App (Embedded Watch Kit app with iOS version)
 
 ## Tutorials
 

@@ -61,6 +61,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 | Name | License | Demo |
 |:----:|:-------:|:----:|
 | [FlickTypeKit](https://github.com/FlickType/FlickTypeKit) | [SEE LICENSE](https://github.com/FlickType/FlickTypeKit/blob/master/LICENSE.md) | ![FlickTypeKit](https://github.com/FlickType/FlickTypeKit/raw/master/screenshot-header.png) |
+| [WatchKitTimePicker](https://github.com/calda/WatchKitTimePicker) | [MIT](https://github.com/calda/WatchKitTimePicker) | ![WatchKitTimePicker1](https://github.com/calda/WatchKitTimePicker/raw/master/images/watchkit%20time%20picker%2012hr.gif) ![WatchKitTimePicker2](https://github.com/calda/WatchKitTimePicker/raw/master/images/watchkit%20time%20picker%2024hr.gif)|
 
 ### Plugin
 

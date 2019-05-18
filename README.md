@@ -1,5 +1,7 @@
 ![logo](image/awesome-apple-watch.png)
 
+<img src="https://awesome.re/badge.svg" alt="Awesome">
+
 # About
 
 Awesome Apple Watch is a curated list of awesome watchOS frameworks, libraries, sample apps, including Objective-C and Swift Projects.

@@ -131,6 +131,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons)
 * [Simple Apple Watch Apps](https://github.com/JoeyTawadrous/Simple-Apple-Watch-Apps)
 * [County](https://github.com/ColdGrub1384/County) - iOS, WatchOS simple counter app
+* [WatchOSFace](https://github.com/JackLee1071426378/WatchOSFace) - An Apple Watch face application with SpriteKit on watchOS
+* [Weight Tracker](https://github.com/Jackson-S/weight-tracker) - A Weight Logger for Apple Watch
 
 # Other Awesome Lists
 

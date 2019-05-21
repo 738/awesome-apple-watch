@@ -133,12 +133,14 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [County](https://github.com/ColdGrub1384/County) - iOS, WatchOS simple counter app
 * [WatchOSFace](https://github.com/JackLee1071426378/WatchOSFace) - An Apple Watch face application with SpriteKit on watchOS
 * [Weight Tracker](https://github.com/Jackson-S/weight-tracker) - A Weight Logger for Apple Watch
+* [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS) - Simple app to monitor your GitHub Contributions Graph in Today Extension and Apple Watch
 
 # Other Awesome Lists
 
 * [Awesome iOS](https://github.com/vsouza/awesome-ios)
 * [Awesome watchOS](https://github.com/yenchenlin/awesome-watchos)
 * [Awesome WatchKit sample apps & tutorials](https://github.com/sanketfirodiya/sample-watchkit-apps)
+* [open-source-ios-apps#apple-watch](https://github.com/dkhamsing/open-source-ios-apps#apple-watch)
 
 ### Contributing
 

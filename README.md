@@ -138,6 +138,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Watch Calci](https://github.com/vikasrs4u/Watch-Calci) - WatchOS app for Apple Watch that helps you do basic calculations like Addition, Subtraction, Multiplication and Divison easily
 * [Giovanni](https://github.com/gabrieloc/GIOVANNI) - A Gameboy Emulator for the Apple Watch
 * [Heart Control](https://github.com/thomaspaulmann/HeartControl) - Heart Control is a standalone watch app to monitor continuously heart rate on watchOS 3
+* [WatchNote](https://github.com/ezefranca/watchpresenter) - ⌚️ 🤓 Controlling yours Keynote Slides using Apple Watch
 
 # Other Awesome Lists
 

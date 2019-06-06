@@ -140,6 +140,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Giovanni](https://github.com/gabrieloc/GIOVANNI) - A Gameboy Emulator for the Apple Watch
 * [Heart Control](https://github.com/thomaspaulmann/HeartControl) - Heart Control is a standalone watch app to monitor continuously heart rate on watchOS 3
 * [WatchNote](https://github.com/ezefranca/watchpresenter) - ⌚️ 🤓 Controlling yours Keynote Slides using Apple Watch
+* [Smogler](https://github.com/vasarhelyia/Smogler) - Location based air quality information, on your iPhone and your Apple Watch
 
 # Other Awesome Lists
 

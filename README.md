@@ -141,6 +141,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Heart Control](https://github.com/thomaspaulmann/HeartControl) - Heart Control is a standalone watch app to monitor continuously heart rate on watchOS 3
 * [WatchNote](https://github.com/ezefranca/watchpresenter) - ⌚️ 🤓 Controlling yours Keynote Slides using Apple Watch
 * [Smogler](https://github.com/vasarhelyia/Smogler) - Location based air quality information, on your iPhone and your Apple Watch
+* [SmogWatch](https://github.com/mackuba/SmogWatch) - WatchOS app for checking air pollution levels
 
 # Other Awesome Lists
 

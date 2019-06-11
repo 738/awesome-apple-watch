@@ -46,6 +46,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 | [JBInterfaceController](https://github.com/mikeswanson/JBInterfaceController) | MIT | No Demo Image |
 | [NKWatchActivityIndicator](https://github.com/NilStack/NKWatchActivityIndicator) | MIT | No Demo Image |
 | [IGInterfaceDataTable](https://github.com/facebookarchive/IGInterfaceDataTable) | BSD | ![IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable/raw/master/images/example.jpg) |
+| [NKWatchChart](https://github.com/NilStack/NKWatchChart) | MIT | No Demo Image |
 
 ### Connectivity
 

@@ -1,6 +1,5 @@
 ![logo](image/awesome-apple-watch.png)
-
-<img src="https://awesome.re/badge.svg" alt="Awesome">
+<img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
 
 # About
 

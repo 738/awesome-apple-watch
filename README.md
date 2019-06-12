@@ -1,5 +1,10 @@
-![logo](image/awesome-apple-watch.png)
-<img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
+<div align="center">
+	<img src="image/awesome-apple-watch.png" alt="awesome-apple-watch" width="750" />
+	<br />
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
+	</a>
+</div>
 
 # About
 

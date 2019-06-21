@@ -149,6 +149,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Smogler](https://github.com/vasarhelyia/Smogler) - Location based air quality information, on your iPhone and your Apple Watch
 * [SmogWatch](https://github.com/mackuba/SmogWatch) - WatchOS app for checking air pollution levels
 * [SlideShow](https://github.com/mlego/SlideShow)
+* [apple-watch-mnist](https://github.com/tuomasr/apple-watch-mnist) - MNIST for Apple Watch
 
 # Other Awesome Lists
 

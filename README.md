@@ -150,6 +150,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [SmogWatch](https://github.com/mackuba/SmogWatch) - WatchOS app for checking air pollution levels
 * [SlideShow](https://github.com/mlego/SlideShow)
 * [apple-watch-mnist](https://github.com/tuomasr/apple-watch-mnist) - MNIST for Apple Watch
+* [Apple Watch Calculator](https://github.com/peterentwistle/Apple-Watch-Calculator) - A simple calculator for the Apple Watch written in Swift
 
 # Other Awesome Lists
 

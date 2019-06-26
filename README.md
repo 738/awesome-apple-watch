@@ -152,6 +152,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [apple-watch-mnist](https://github.com/tuomasr/apple-watch-mnist) - MNIST for Apple Watch
 * [Apple Watch Calculator](https://github.com/peterentwistle/Apple-Watch-Calculator) - A simple calculator for the Apple Watch written in Swift
 * [Music Tweet](https://github.com/Tomn94/Music-Tweet) - Simple app for iOS & watchOS to quickly share on Twitter the currently played track, including the artist and, if you want, the album artwork
+* [Stray Bird](https://github.com/howadev/StrayBird) - An iOS game detecting movement from Apple Watch and SensorTag
 
 # Other Awesome Lists
 

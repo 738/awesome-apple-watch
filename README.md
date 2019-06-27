@@ -22,6 +22,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 # Content
 
 * [Getting Started](#getting-started)
+* [WWDC](#WWDC)
 * [Design Guide](#design-guide)
 * [Library](#library)
     * [UI](#ui)
@@ -33,6 +34,10 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 ## Getting Started
 
 * [Apple Developer WatchKit Documentation](https://developer.apple.com/documentation/watchkit)
+
+## WWDC
+
+* [WWDC2018 What's New in watchOS](https://developer.apple.com/videos/play/wwdc2018/206/)
 
 ## Design Guide
 

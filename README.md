@@ -161,6 +161,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Music Tweet](https://github.com/Tomn94/Music-Tweet) - Simple app for iOS & watchOS to quickly share on Twitter the currently played track, including the artist and, if you want, the album artwork
 * [Stray Bird](https://github.com/howadev/StrayBird) - An iOS game detecting movement from Apple Watch and SensorTag
 * [Breath Animation](https://github.com/victorpanitz/iOS-BreathAnimation-AppleWatch-) - A simple approach implementing Breath animation (Apple Watch app)
+* [Blur](https://github.com/Mnpn03/Blur) - Twitter client for Apple Watch
+* [zendō](https://github.com/zenbf/zendo) - digital zendō that you can take with you anywhere, provided an Apple Watch and iPhone
 
 
 # Other Awesome Lists

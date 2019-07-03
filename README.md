@@ -163,6 +163,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Breath Animation](https://github.com/victorpanitz/iOS-BreathAnimation-AppleWatch-) - A simple approach implementing Breath animation (Apple Watch app)
 * [Blur](https://github.com/Mnpn03/Blur) - Twitter client for Apple Watch
 * [zendō](https://github.com/zenbf/zendo) - digital zendō that you can take with you anywhere, provided an Apple Watch and iPhone
+* [Demo Watchkit](https://github.com/mehulparmar4ever/Demo-Watchkit)
 
 
 # Other Awesome Lists

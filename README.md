@@ -165,6 +165,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Blur](https://github.com/Mnpn03/Blur) - Twitter client for Apple Watch
 * [zendō](https://github.com/zenbf/zendo) - digital zendō that you can take with you anywhere, provided an Apple Watch and iPhone
 * [Demo Watchkit](https://github.com/mehulparmar4ever/Demo-Watchkit)
+* [apple-watch-uikit](https://github.com/elliottsj/apple-watch-uikit) - Run UIKit on the Watch!
 
 
 # Other Awesome Lists

@@ -166,6 +166,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [zendō](https://github.com/zenbf/zendo) - digital zendō that you can take with you anywhere, provided an Apple Watch and iPhone
 * [Demo Watchkit](https://github.com/mehulparmar4ever/Demo-Watchkit)
 * [apple-watch-uikit](https://github.com/elliottsj/apple-watch-uikit) - Run UIKit on the Watch!
+* [Deuce](https://github.com/AustinConlon/Deuce) - Tennis scorekeeper for Apple Watch and iPhone
 
 
 # Other Awesome Lists

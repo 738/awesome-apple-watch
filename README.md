@@ -167,7 +167,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Demo Watchkit](https://github.com/mehulparmar4ever/Demo-Watchkit)
 * [apple-watch-uikit](https://github.com/elliottsj/apple-watch-uikit) - Run UIKit on the Watch!
 * [Deuce](https://github.com/AustinConlon/Deuce) - Tennis scorekeeper for Apple Watch and iPhone
-* [Space Beaver for Apple Watch](https://github.com/darkwind666/SpaceBeaverAppleWatch) - Simple game for Apple Watch
+* [Space Beaver for Apple Watch](https://github.com/darkwind666/SpaceBeaverAppleWatch) - Simple game for Apple Watc
+* [Watch RayTracer](https://github.com/fabio914/watchRayTracer) - RayTracer for watchOS
 
 
 # Other Awesome Lists

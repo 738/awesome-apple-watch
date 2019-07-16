@@ -170,6 +170,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Space Beaver for Apple Watch](https://github.com/darkwind666/SpaceBeaverAppleWatch) - Simple game for Apple Watc
 * [Watch RayTracer](https://github.com/fabio914/watchRayTracer) - RayTracer for watchOS
 * [Apple Watch as a TV Remote](https://github.com/fabio914/appleWatch_TVRemote)
+* [Binary Shark](https://github.com/Gerzer/Binary-Shark) - Manage your DigitalOcean account from iPhone and Apple Watch
 
 
 # Other Awesome Lists

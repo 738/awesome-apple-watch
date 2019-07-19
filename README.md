@@ -27,6 +27,10 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Library](#library)
     * [UI](#ui)
     * [Connectivity](#connectivity)
+    * [Motion](#motion)
+    * [Utility](#utility)
+    * [Plugin](#plugin)
+    * [Other Library](#other-library)
 * [Tutorials](#tutorials)
 * [Books](#books)
 * [Sample Apps](#sample-apps)
@@ -100,6 +104,12 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 #### Flutter
 
 * [Flutter Watchtips](https://github.com/magnatronus/flutter-watchtips) - Flutter App (Embedded Watch Kit app with iOS version)
+
+### Other Library
+
+| Name | License | Demo |
+|:----:|:-------:|:----:|
+| [RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar) | [Apache License 2.0](https://github.com/MindorksOpenSource/RadialProgressBar/blob/master/License.md) | ![RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar/raw/master/images/slow.gif) |
 
 ## Tutorials
 

@@ -184,7 +184,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [TodayFortune](https://github.com/haminjun/TodayFortune)
 * [Nippochan](https://github.com/MilanistaDev/Nippochan) - sample app that can post daily report to Slack by using Watch Connectivity and Slack's webhook URL
 * [Apple Watch + SpriteKit: Example Project](https://github.com/bikemap/AppleWatchSpriteKit)
-
+* [Summon](https://github.com/eonist/summon) - Apple Watch App that let's a person summon another person to an exact location within a building
 
 # Other Awesome Lists
 

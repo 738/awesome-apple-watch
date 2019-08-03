@@ -44,6 +44,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 ## WWDC
 
 * [WWDC2018 What's New in watchOS](https://developer.apple.com/videos/play/wwdc2018/206/)
+* [WWDC2019 What's New in watchOS](https://developer.apple.com/videos/play/wwdc2019?q=watchos)
 
 ## Design Guide
 

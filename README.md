@@ -188,6 +188,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Summon](https://github.com/eonist/summon) - Apple Watch App that let's a person summon another person to an exact location within a building
 * [今日公交(Bus Today)](https://github.com/JohnWong/bus-today)
 * [Everyday](https://github.com/hemangshah/Everyday)
+* [AceSAT](https://github.com/kedianaman/AceSAT) - SAT Vocabulary Application
 
 # Other Awesome Lists
 

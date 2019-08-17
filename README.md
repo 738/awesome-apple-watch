@@ -110,7 +110,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 
 | Name | License | Demo |
 |:----:|:-------:|:----:|
-| [RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar) | [Apache License 2.0](https://github.com/MindorksOpenSource/RadialProgressBar/blob/master/License.md) | ![RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar/raw/master/images/slow.gif) |
+| [RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar) Android(Kotlin) | [Apache License 2.0](https://github.com/MindorksOpenSource/RadialProgressBar/blob/master/License.md) | ![RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar/raw/master/images/slow.gif) |
 
 ## Tutorials
 

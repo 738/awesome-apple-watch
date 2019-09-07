@@ -190,6 +190,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [今日公交(Bus Today)](https://github.com/JohnWong/bus-today)
 * [Everyday](https://github.com/hemangshah/Everyday)
 * [AceSAT](https://github.com/kedianaman/AceSAT) - SAT Vocabulary Application
+* [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace) - Simple project to create a 'fake' Apple Watch watch face using Sprite Kit
+* [Apple Watch Hermes Faces](https://github.com/dbonates/AppleWatchFaces-Hermes) - Apple Watch watch Hermès face (and more) using Sprite Kit
 
 # Other Awesome Lists
 

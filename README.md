@@ -192,6 +192,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [AceSAT](https://github.com/kedianaman/AceSAT) - SAT Vocabulary Application
 * [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace) - Simple project to create a 'fake' Apple Watch watch face using Sprite Kit
 * [Apple Watch Hermes Faces](https://github.com/dbonates/AppleWatchFaces-Hermes) - Apple Watch watch Hermès face (and more) using Sprite Kit
+* [Reddit in SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client created in SwiftUI
 
 # Other Awesome Lists
 

@@ -1,13 +1,15 @@
 <div align="center">
 	<img src="image/awesome-apple-watch.png" alt="awesome-apple-watch" width="750" />
-	<br />
+</div>
+
+<p align="center">
 	<a href="https://github.com/738/awesome-apple-watch">
 		<img src="https://img.shields.io/github/stars/738/awesome-apple-watch.svg?style=social&label=Stars" />
 	</a>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
 	</a>
-</div>
+</p>
 
 # About
 

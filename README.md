@@ -117,6 +117,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 |:----:|:-------:|:----:|
 | [RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar) Android(Kotlin) | [Apache License 2.0](https://github.com/MindorksOpenSource/RadialProgressBar/blob/master/License.md) | ![RadialProgressBar](https://github.com/MindorksOpenSource/RadialProgressBar/raw/master/images/slow.gif) |
 | [iOS/macOS/watchOS APP ICONS Generator](https://github.com/smallmuou/ios-icon-generator) | MIT | ![icons_generator](https://github.com/smallmuou/ios-icon-generator/blob/master/ios-icon-generator.gif) |
+| [Speculid](https://speculid.com) | MIT | ![svg converter and icons_generator](https://github.com/brightdigit/Speculid/blob/master/images/Logo.png?raw=true) |
 
 ## Tutorials
 

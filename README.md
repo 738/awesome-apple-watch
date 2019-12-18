@@ -200,6 +200,8 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Apple Watch Hermes Faces](https://github.com/dbonates/AppleWatchFaces-Hermes) - Apple Watch watch Hermès face (and more) using Sprite Kit
 * [Reddit in SwiftUI](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client created in SwiftUI
 * [Bangumi](https://github.com/bi119aTe5hXk/bangumi)
+* [TinyRage](https://github.com/lalabuy948/TinyRage) - Flappy Bird for WatchOS 6+ written in swift 5 using spriteKit
+* [Mini Space Journey](https://github.com/lalabuy948/MiniSpaceJourney) - Space Invadors for WatchOS written in Swift5 using spriteKit
 
 # Other Awesome Lists
 

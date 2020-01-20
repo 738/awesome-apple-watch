@@ -203,6 +203,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [TinyRage](https://github.com/lalabuy948/TinyRage) - Flappy Bird for WatchOS 6+ written in swift 5 using spriteKit
 * [Mini Space Journey](https://github.com/lalabuy948/MiniSpaceJourney) - Space Invadors for WatchOS written in Swift5 using spriteKit
 * [AirTime](https://github.com/playportal-studio/AirTime) - Swift Source Code for building an Apple Watch + playPORTAL app
+* [WorkoutExporter](https://github.com/WorkoutExporter/WorkoutExporter) - Exporting Workouts tracked by Apple Watch into files ready for sharing
 
 # Other Awesome Lists
 

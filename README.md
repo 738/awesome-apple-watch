@@ -3,11 +3,14 @@
 </div>
 
 <p align="center">
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge.svg" alt="Awesome">
+	</a>
 	<a href="https://github.com/738/awesome-apple-watch">
 		<img src="https://img.shields.io/github/stars/738/awesome-apple-watch.svg?style=social&label=Stars" />
 	</a>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge.svg" alt="Awesome" align="center">
+	<a href="https://hits.seeyoufarm.com"/>
+		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2Fawesome-apple-watch"/>
 	</a>
 </p>
 

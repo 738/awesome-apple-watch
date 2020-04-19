@@ -1,6 +1,7 @@
-<div align="center">
-	<img src="image/awesome-apple-watch.png" alt="awesome-apple-watch" width="750" />
-</div>
+<h1 align="center">
+	<img src="image/awesome-apple-watch.png" alt="awesome-apple-watch" width="250" />
+	<br> Awesome Apple Watch
+</h1>
 
 <p align="center">
 	<a href="https://awesome.re">

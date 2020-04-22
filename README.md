@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="/awesome-apple-watch.png" alt="awesome-apple-watch" height="250" />
+	<img src="/awesome-apple-watch.png" alt="awesome-apple-watch" width="380" />
 	<br> Awesome Apple Watch
 </h1>
 

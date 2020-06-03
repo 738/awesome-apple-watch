@@ -208,6 +208,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [Mini Space Journey](https://github.com/lalabuy948/MiniSpaceJourney) - Space Invadors for WatchOS written in Swift5 using spriteKit
 * [AirTime](https://github.com/playportal-studio/AirTime) - Swift Source Code for building an Apple Watch + playPORTAL app
 * [WorkoutExporter](https://github.com/WorkoutExporter/WorkoutExporter) - Exporting Workouts tracked by Apple Watch into files ready for sharing
+* [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 
 # Other Awesome Lists
 

@@ -19,7 +19,7 @@
 
 Awesome Apple Watch is a curated list of awesome watchOS frameworks, libraries, sample apps, including Objective-C and Swift Projects.
 
-> PRs are welcome! 
+> PRs are welcome!
 
 # How to Use
 
@@ -208,6 +208,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [AirTime](https://github.com/playportal-studio/AirTime) - Swift Source Code for building an Apple Watch + playPORTAL app
 * [WorkoutExporter](https://github.com/WorkoutExporter/WorkoutExporter) - Exporting Workouts tracked by Apple Watch into files ready for sharing
 * [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
+* [WatchTube](https://github.com/WatchTubeTeam/WatchTube) - Powerful YouTube client for Apple Watch
 
 # Other Awesome Lists
 
